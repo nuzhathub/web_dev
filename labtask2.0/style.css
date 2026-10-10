@@ -1,0 +1,287 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.donationPage {
+    max-height: fit-content;
+    width: 800px;
+    background-color: rgb(222, 222, 220);
+}
+
+.fieldLabel {
+    position: relative;
+    left: 140px;
+    font-weight: bolder;
+}
+
+#firstname {
+    position: relative;
+    left: 200px;
+    width: 300px;
+}
+
+#lastname {
+    position: relative;
+    left: 202px;
+    width: 300px;
+}
+
+#company {
+    position: relative;
+    left: 217px;
+    width: 300px;
+}
+
+#address1 {
+    position: relative;
+    left: 208px;
+    width: 300px;
+}
+
+#address2 {
+    position: relative;
+    left: 215px;
+    width: 300px;
+}
+
+#city {
+    position: relative;
+    left: 244px;
+    width: 300px;
+}
+
+#state {
+    position: relative;
+    left: 234px;
+    width: 120px;
+}
+
+#zipcode {
+    position: relative;
+    left: 204px;
+    width: 300px;
+}
+
+#country {
+    position: relative;
+    left: 209px;
+    width: 120px;
+}
+
+#phone {
+    position: relative;
+    left: 236px;
+    width: 300px;
+}
+
+#Fax {
+    position: relative;
+    left: 252px;
+    width: 300px;
+}
+
+#email {
+    position: relative;
+    left: 228px;
+    width: 300px;
+}
+
+#donationOptions {
+    position: relative;
+    left: 150px;
+    display: inline-block;
+    top: 20px;
+}
+
+#amountHint {
+    position: relative;
+    bottom: 10px;
+    left: 10px;
+}
+
+#otherDonation {
+    position: relative;
+    left: 280px;
+    bottom: 45px;
+}
+
+#othamount {
+    height: 10px;
+}
+
+#recurringGift {
+    position: relative;
+    left: 100px;
+    bottom: 45px;
+}
+
+#creditamount {
+    width: 45px;
+}
+
+#months {
+    width: 45px;
+}
+
+#monthlyDetails {
+    position: relative;
+    left: 230px;
+}
+
+#dedicationChoices {
+    display: inline-block;
+    height: 50px;
+    width: 150px;
+    position: relative;
+    top: 20px;
+}
+
+#dedicationBlock {
+    position: relative;
+    left: 80px;
+}
+
+.memorialLabel {
+    position: relative;
+    left: 140px;
+    font-weight: bolder;
+}
+
+#names {
+    position: relative;
+    left: 284px;
+    width: 300px;
+}
+
+#ack {
+    position: relative;
+    left: 151px;
+    width: 300px;
+}
+
+#address {
+    position: relative;
+    left: 268px;
+    width: 300px;
+}
+
+#city2 {
+    position: relative;
+    left: 294px;
+    width: 300px;
+}
+
+#state2 {
+    position: relative;
+    left: 279px;
+    width: 160px;
+}
+
+#zips {
+    position: relative;
+    left: 297px;
+    width: 300px;
+}
+
+#name3 {
+    position: relative;
+    left: 280px;
+    width: 300px;
+}
+
+#giftOptions {
+    position: relative;
+    left: 20px;
+}
+
+#commentTitle {
+    position: relative;
+    left: 140px;
+    top: 20px;
+    font-weight: bolder;
+}
+
+#commentHint {
+    position: relative;
+    left: 20px;
+    bottom: 35px;
+    font-weight: lighter;
+    font-size: 14px;
+}
+
+#comments {
+    position: relative;
+    left: 90px;
+    width: 280px;
+}
+
+#contactChoices {
+    display: inline-block;
+    height: 80px;
+    position: relative;
+    left: 130px;
+}
+
+#contactTitle {
+    position: relative;
+    bottom: 80px;
+    left: 75px;
+}
+
+#newsletterChoices {
+    height: 40px;
+    position: relative;
+    left: 200px;
+}
+
+#newsletterTitle {
+    position: relative;
+    left: 30px;
+}
+
+.sectionTitle {
+    color: red;
+    position: relative;
+    left: 20px;
+    font-weight: bolder;
+}
+
+#volunteerOption {
+    position: relative;
+    left: 20px;
+}
+
+#formButtons {
+    position: relative;
+    left: 150px;
+}
+
+.securityNote {
+    position: relative;
+    left: 20px;
+}
+
+.supportNote {
+    position: relative;
+    left: 20px;
+}
+
+#resetButton {
+    border-radius: 10px;
+}
+
+#continueButton {
+    border-radius: 10px;
+}
+
+#publicationNote {
+    position: relative;
+    left: 20px;
+}
+
+.smallField {
+    width: 45px;
+}
